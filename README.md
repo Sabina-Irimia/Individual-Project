@@ -1,5 +1,6 @@
 # Individual-Project
 A list article/books that I have to read for the final project
+scholar.google.co.uk ------> for finding references
 
 The role of emotion and narrative in the reciprocal construction of identity
 https://www.tandfonline.com/doi/pdf/10.1080/13678860600563382
