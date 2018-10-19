@@ -52,3 +52,7 @@ https://dl.acm.org/citation.cfm?id=1186262
 
 Controllable High-fidelity Facial Performance Transfer
 https://dl.acm.org/citation.cfm?id=2601210
+
+Tips for Operating Puppets
+http://www.aps.edu/arts-center/documents/Puppet%20Operation.pdf
+
