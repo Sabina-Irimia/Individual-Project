@@ -25,9 +25,19 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089773    x n
 --------------------------------------------------------------------------------------------------------------------
 Creation and Evaluation of emotion expression with body movement, sound and eye color for humanoid robots
 https://ieeexplore.ieee.org/document/6005263  O
+"
+Häring, M., Bee, N. and André, E., 2011, July. 
+Creation and evaluation of emotion expression with body movement, sound and eye color for humanoid robots. 
+In Ro-Man, 2011 Ieee (pp. 204-209). IEEE.
+"
 
 Realtime Style Transfer for Unlabeled Heterogeneous Human Motion
 https://dl.acm.org/citation.cfm?id=2766999   O
+"
+Xia, S., Wang, C., Chai, J. and Hodgins, J., 2015. 
+Realtime style transfer for unlabeled heterogeneous human motion. 
+ACM Transactions on Graphics (TOG), 34(4), p.119.
+"
 
 Fast Neural Style Transfer for Motion Data
 https://ieeexplore.ieee.org/document/8013475
