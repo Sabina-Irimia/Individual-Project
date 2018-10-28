@@ -46,6 +46,9 @@ https://ieeexplore.ieee.org/document/8013475
 Style Translation for Human Motion
 https://dl.acm.org/citation.cfm?id=1073315
 
+Spectral Style Transfer for Human Motion between Independent Actions
+https://dl.acm.org/citation.cfm?id=2925955
+
 Markerless human motion transfer
 https://dl.acm.org/citation.cfm?id=1186262   
 - don't know if it is useful but is interesting
@@ -59,3 +62,6 @@ http://www.aps.edu/arts-center/documents/Puppet%20Operation.pdf
 The Illusion of Robotic Life
 Principles and Practices of Animation for Robots
 http://delivery.acm.org/10.1145/2160000/2157814/p383-ribeiro.pdf?ip=212.219.156.254&id=2157814&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E3459FC42C4D3CA19%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1539949156_23deff827d47205aa4de552a04d3a432
+
+
+
