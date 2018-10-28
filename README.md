@@ -11,15 +11,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4707271/
 Perception of Emotions and Body Movement in the Emilya Database
 https://ieeexplore.ieee.org/document/7511699
 
-Estimation of Emotional State in Personal Fabrication: Analysis of Emotional Motion Based on Laban Movement Analysis
-https://ieeexplore.ieee.org/document/8227347  x not that usefull
-
-Processing emotion information from both the face and body: An eye-movement study
-https://www.tandfonline.com/doi/abs/10.1080/02699931.2011.588691     x not that usefull
-
-Expressing emotion through posture and gesture          x not that usefull
-http://people.ict.usc.edu/~gratch/CSCI534/Readings/ACII-Handbook-GestureSyn.pdf
-
 Recognizing Induced Emotions of Happiness and Sadness from Dance Movement
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089773    x not that usefull/read for examples
 - Ethics Statement example
@@ -45,16 +36,18 @@ https://ieeexplore.ieee.org/document/8013475
 
 Style Translation for Human Motion
 https://dl.acm.org/citation.cfm?id=1073315
+"
+Hsu, E., Pulli, K. and Popović, J., 2005, July. Style translation for human motion. In ACM Transactions on Graphics (TOG) (Vol. 24, No. 3, pp. 1082-1089). ACM.
+"
 
 Spectral Style Transfer for Human Motion between Independent Actions
 https://dl.acm.org/citation.cfm?id=2925955
-
-Markerless human motion transfer
-https://dl.acm.org/citation.cfm?id=1186262   
-- don't know if it is useful but is interesting
+"
+Yumer, M.E. and Mitra, N.J., 2016. Spectral style transfer for human motion between independent actions. ACM Transactions on Graphics (TOG), 35(4), p.137.
+"
 
 Controllable High-fidelity Facial Performance Transfer
-https://dl.acm.org/citation.cfm?id=2601210
+https://dl.acm.org/citation.cfm?id=2601210     X
 
 Tips for Operating Puppets
 http://www.aps.edu/arts-center/documents/Puppet%20Operation.pdf
@@ -62,6 +55,9 @@ http://www.aps.edu/arts-center/documents/Puppet%20Operation.pdf
 The Illusion of Robotic Life
 Principles and Practices of Animation for Robots
 http://delivery.acm.org/10.1145/2160000/2157814/p383-ribeiro.pdf?ip=212.219.156.254&id=2157814&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E3459FC42C4D3CA19%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1539949156_23deff827d47205aa4de552a04d3a432
+"
+Ribeiro, T. and Paiva, A., 2012, March. The illusion of robotic life: principles and practices of animation for robots. In Proceedings of the seventh annual ACM/IEEE international conference on Human-Robot Interaction (pp. 383-390). ACM.
+"
 
 
 
